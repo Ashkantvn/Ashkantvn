@@ -1,31 +1,27 @@
-Hi there, I'm Ashkan 👋
-About Me
+# Hi there, I'm [Your Name] 👋
+
+### About Me
+
 I'm an enthusiastic web developer with a strong passion for creating dynamic and responsive applications using Django, React, and PostgreSQL. I love turning ideas into reality through code, and I’m dedicated to continuously learning and growing in the tech community.
 
-My Skills
-Frontend:
+### My Skills
 
-React
+- **Frontend**: 
+  - React
+  - HTML5 & CSS3
+  - JavaScript (ES6+)
+  - Responsive Design
 
-HTML5 & CSS3
+- **Backend**:
+  - Django
+  - Django REST Framework
+  - PostgreSQL
+  - API Development
 
-JavaScript (ES6+)
+- **Tools & Technologies**:
+  - Docker & Docker Compose
+  - Git & GitHub
 
-Responsive Design
+### My Projects
 
-Backend:
-
-Django
-
-Django REST Framework
-
-PostgreSQL
-
-API Development
-
-Tools & Technologies:
-
-Docker & Docker Compose
-
-My Projects
-DeviceDiscovery: A comprehensive platform for tech enthusiasts to review, compare, and stay informed about the latest digital devices. Built with Django, React, and PostgreSQL.
+1. **[Device Discovery](https://github.com/Ashkantvn/devicediscovery)**: A comprehensive platform for tech enthusiasts to review, compare, and stay informed about the latest digital devices. Built with Django, React, and PostgreSQL.
