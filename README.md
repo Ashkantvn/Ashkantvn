@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi there, I'm Ashkan 👋
+About Me
+I'm an enthusiastic web developer with a strong passion for creating dynamic and responsive applications using Django, React, and PostgreSQL. I love turning ideas into reality through code, and I’m dedicated to continuously learning and growing in the tech community.
 
-<!--
-**Ashkantvn/Ashkantvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Skills
+Frontend:
 
-Here are some ideas to get you started:
+React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML5 & CSS3
+
+JavaScript (ES6+)
+
+Responsive Design
+
+Backend:
+
+Django
+
+Django REST Framework
+
+PostgreSQL
+
+API Development
+
+Tools & Technologies:
+
+Docker & Docker Compose
+
+My Projects
+DeviceDiscovery: A comprehensive platform for tech enthusiasts to review, compare, and stay informed about the latest digital devices. Built with Django, React, and PostgreSQL.
