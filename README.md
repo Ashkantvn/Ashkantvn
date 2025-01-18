@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm an enthusiastic web developer with a strong passion for creating dynamic and responsive applications using Django, React, and PostgreSQL. I love turning ideas into reality through code, and I’m dedicated to continuously learning and growing in the tech community.
+I'm an enthusiastic developer with a strong passion for creating dynamic and responsive applications using Django, React, and PostgreSQL. I love turning ideas into reality through code, and I’m dedicated to continuously learning and growing in the tech community.
 
 ### My Skills
 
