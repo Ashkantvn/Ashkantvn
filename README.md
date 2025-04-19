@@ -2,7 +2,7 @@
 
 ### About Me
 
-Hi there! I'm a **Django** Developer who enjoy turning ideas into functional and robust solutions.
+I'm a **Django** Developer who enjoy turning ideas into functional and robust solutions.
 
 ### My Skills
 
