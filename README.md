@@ -1,4 +1,4 @@
-# Hi there, I'm Ashkan 👋
+# Hi, I'm Ashkan
 
 ### About Me
 
