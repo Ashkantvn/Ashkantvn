@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a **Python** Developer who enjoys turning ideas into functional and robust solutions.
+I'm a Developer who enjoys turning ideas into functional and robust solutions.
 
 ### My Skills
 
