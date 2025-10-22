@@ -18,6 +18,6 @@ I'm a **Python** Developer who enjoys turning ideas into functional and robust s
 
 ### My Projects
 
-1. **[Writrating](https://github.com/Ashkantvn/writrating)**: A comprehensive platform for tech enthusiasts to review, compare, and stay informed about the latest digital devices. Built with Django.
-2. **[Django-ToDo](https://github.com/Ashkantvn/DJANGO-TODO)**: A project for using most features of Django. Built with django, and DRF.
+1. **[Writrating](https://github.com/Ashkantvn/writrating)**: A RESTful API built with Django REST Framework for rating devices.
+2. **[Shop-manager](https://github.com/Ashkantvn/shop-manager)**: ShopManager is a management system designed to monitor activities.
 2. **[BLOG-APP](https://github.com/Ashkantvn/Blog-app)**: A blogging platform built with Django 5.2.6.
