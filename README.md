@@ -20,4 +20,4 @@ I'm a Developer who enjoys turning ideas into functional and robust solutions.
 
 1. **[Writrating](https://github.com/Ashkantvn/writrating)**: A RESTful API built with Django REST Framework for rating devices.
 2. **[Shop-manager](https://github.com/Ashkantvn/shop-manager)**: ShopManager is a management system designed to monitor activities.
-2. **[BLOG-APP](https://github.com/Ashkantvn/Blog-app)**: A blogging platform built with Django 5.2.6.
+2. **[BLOG-APP](https://github.com/Ashkantvn/Blog-app)**: A blogging platform built with Django.
